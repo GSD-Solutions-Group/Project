@@ -1,26 +1,19 @@
 # Presentation-and-ProjectOrganization
 
-Create a repo for Presentation and Project Organization materials:
-Include a PDF of your slideshow as files in the repo.
-In the README.md file, include:
 
-## Team Agreement
+## [Team Agreement](https://docs.google.com/document/d/1afH_hwHFZECoSqV8J7Mo8QEcBJAb28zoJ_1K0OOuRqI/edit?usp=sharing)
 
- * Links to the Team Agreement doc and System Selection doc.
+## [System Selection](https://docs.google.com/document/d/1w6O1usiMoXL4L6Syvn4fMKXDkswvMJ42MZVk1OKi06w/edit?usp=sharing)
 
-## System Selection
+## [Project Management](https://github.com/orgs/GSD-Solutions-Group/projects/1)
 
- * and System Selection doc.
 
-## Project Management 
-
- * Link to the PM tool your team is using to manage tasks.
 
 ## Useful Project Links
 
- * Links and explanations for any files in the repo (such as the PDF of your slideshow).
+ [PDF Slideshow](https://docs.google.com/presentation/d/1gVc_nkra82Bn7EO7U6zKsh6Fq2kVNyzXFyEvqVO5NTo/edit?usp=sharing)
 
 ## Final Presentation
 
- * A link to the video of your presentation (when it becomes available).
+ * Pending: A link to the video of your presentation (when it becomes available).
  
