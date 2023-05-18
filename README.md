@@ -1,4 +1,4 @@
-# Presentation-and-ProjectOrganization
+# Presentation and Project Organization
 
 
 ## [Team Agreement](https://docs.google.com/document/d/1afH_hwHFZECoSqV8J7Mo8QEcBJAb28zoJ_1K0OOuRqI/edit?usp=sharing)
