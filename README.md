@@ -2,8 +2,7 @@
 
 
 ## [Team Agreement](https://drive.google.com/file/d/1gRRIiz2kUSz3m5TboxeRd42-v00Urnd3/view)
-## [System Selection]()
-
+## [System Selection](https://drive.google.com/file/d/1_P2m80VuHUWgRKf4L92oYN7hUW0nRiQa/view?usp=sharing)
 ## [Project Management](https://github.com/orgs/GSD-Solutions-Group/projects/1)
 
 
