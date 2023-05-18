@@ -1,8 +1,7 @@
 # Presentation and Project Organization
 
 
-## [Team Agreement](https://docs.google.com/document/d/1afH_hwHFZECoSqV8J7Mo8QEcBJAb28zoJ_1K0OOuRqI/edit?usp=sharing)
-
+## [Team Agreement]file:///C:/Users/reeds/Documents/Team%20Agreement.pdf
 ## [System Selection](https://docs.google.com/document/d/1w6O1usiMoXL4L6Syvn4fMKXDkswvMJ42MZVk1OKi06w/edit?usp=sharing)
 
 ## [Project Management](https://github.com/orgs/GSD-Solutions-Group/projects/1)
