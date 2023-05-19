@@ -12,10 +12,9 @@
 ## [Project Management](https://github.com/orgs/GSD-Solutions-Group/projects/1)
 
 
-
 ## Useful Project Links
 
- [PDF Slideshow](https://docs.google.com/presentation/d/1gVc_nkra82Bn7EO7U6zKsh6Fq2kVNyzXFyEvqVO5NTo/edit?usp=sharing)
+ [Micro Satellite Project Presentation Slide Deck](https://github.com/GSD-Solutions-Group/Documentation/blob/main/GSD%20Solutions%20Group-Project_%20Micro%20Satellites%20(Slide%20Deck).pdf)
 
 ## Final Presentation
 
